@@ -19,8 +19,7 @@ Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-arif)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-arif&show_icons=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=code-arif)  
 
 ![GitHub metrics](https://metrics.lecoq.io/code-arif)  
@@ -28,4 +27,4 @@ Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=code-arif)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
