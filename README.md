@@ -8,7 +8,7 @@ I'm a PHP and Laravel enthusiast with a knack for turning ideas into functional 
 
 Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
 
-- 🔭 I’m currently working on multi-vendor eCommerce site 
+- 🔭 I’m currently working on a multi-vendor eCommerce site 
 - 🌱 I’m currently learning PHP and Laravel 
 - 💬 Ask me about Web Development 
 
@@ -27,4 +27,3 @@ Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=code-arif)  
 
-![Profile views](https://gpvc.arturio.dev/code-arif)  
