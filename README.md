@@ -27,3 +27,5 @@ Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=code-arif)  
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
