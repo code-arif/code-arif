@@ -1,8 +1,8 @@
-(https://media.licdn.com/dms/image/D5616AQERAiTvt3NEfw/profile-displaybackgroundimage-shrink_350_1400/0/1692463640305?e=1697673600&v=beta&t=G052R02mlKxhT69aKMMpVdDagIlqUd03VJlTClwbWwY)
+![Full-stack Web Developer](https://media.licdn.com/dms/image/D5616AQERAiTvt3NEfw/profile-displaybackgroundimage-shrink_350_1400/0/1692463640305?e=1697673600&v=beta&t=G052R02mlKxhT69aKMMpVdDagIlqUd03VJlTClwbWwY)
 
 ### Hi there 👋, my name is Md. Ariful Islam
 #### Full-stack Web Developer
-![Full-stack Web Developer]
+
 
 I'm a PHP and Laravel enthusiast with a knack for turning ideas into functional web applications. As a seasoned developer, I specialize in crafting elegant solutions using PHP and the Laravel framework. Whether it's building powerful backends or creating seamless APIs, I'm here to make your web projects shine. Let's collaborate and bring your digital visions to life!
 
