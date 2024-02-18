@@ -1,32 +1,14 @@
-![Full-stack Web Developer](https://media.licdn.com/dms/image/D5616AQERAiTvt3NEfw/profile-displaybackgroundimage-shrink_350_1400/0/1692463640305?e=1697673600&v=beta&t=G052R02mlKxhT69aKMMpVdDagIlqUd03VJlTClwbWwY)
+<h1 align="center">Hi 👋, I'm Md. Ariful Islam</h1>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-### Hi there 👋, my name is Md. Ariful Islam
-#### Full-stack Web Developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/code-arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code-arif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md. ariful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. ariful islam" height="30" width="40" /></a>
+<a href="https://fb.com/md. ariful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. ariful islam" height="30" width="40" /></a>
+</p>
 
-
-I'm a PHP and Laravel enthusiast with a knack for turning ideas into functional web applications. As a seasoned developer, I specialize in crafting elegant solutions using PHP and the Laravel framework. Whether it's building powerful backends or creating seamless APIs, I'm here to make your web projects shine. Let's collaborate and bring your digital visions to life!
-
-Skills: HTML / CSS / PHP / LARAVEL / WordPress / Bootstrap
-
-- 🔭 I’m currently working on a multi-vendor eCommerce site 
-- 🌱 I’m currently learning PHP and Laravel 
-- 💬 Ask me about Web Development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/code-arif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ariful-islam-9926a922a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/akj.ariful.islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/code-arif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MDArifu29733666)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21041485)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portfolio.codearif.com)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-arif)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-arif&show_icons=true&theme=radical)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=code-arif)  
-
-![GitHub metrics](https://metrics.lecoq.io/code-arif)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=code-arif)  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 
