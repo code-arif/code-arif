@@ -6,9 +6,9 @@ Full-Stack Web Developer | Laravel & Vue.js Enthusiast
 
 # 🚀 About Me  
 
-Passionate about crafting seamless, responsive web applications that bring ideas to life. With expertise in **Laravel** and **Vue.js**, I specialize in building feature-rich, user-friendly platforms that blend functionality with elegance.  
+Passionate about crafting seamless, responsive web applications that bring ideas to life. With expertise in **Laravel** and **Vue.js**, I build feature-rich, user-friendly platforms that blend functionality with elegance.  
 
-From clean backend architectures to engaging frontend interactions, I strive to create solutions that not only meet requirements but also deliver exceptional user experiences.  
+From clean backend architectures to engaging front-end interactions, I strive to create solutions that meet requirements and deliver exceptional user experiences.  
 
 ---
 
