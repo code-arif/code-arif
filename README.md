@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://getshared.com/dashboard/api/files/50eb2c7c-5da4-11f1-8264-ac1f6b763f30/stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjUwODcwLCJlbWFpbCI6InJ1ZnV6eHl6QGdtYWlsLmNvbSIsImlhdCI6MTc4MDMwOTM2OSwiZXhwIjoxNzgyOTAxMzY5fQ.wtUxZSRD8yoaUrxNj5u_w8uVjOmbUVQVM9nC4OALgr8&t=1780309595041" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4UESirmZENg/profile-displaybackgroundimage-shrink_350_1400/B56Z.9zcwsKwAY-/0/1785595809055?e=1787184000&v=beta&t=kdd1RNAT9u5vtIXbTzsjoE_aL4b6x5X8uldGg82XlCM" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Ariful Islam</h1>
