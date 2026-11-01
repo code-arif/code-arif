@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4UESirmZENg/profile-displaybackgroundimage-shrink_200_800/B56Z.9zcwsKwAU-/0/1785595809055?e=1793232000&v=beta&t=5RqCrwgJmaL8CjvMHZ0wOHDz9Xeb9oKTFwkU6FoVnGo" width="100%" alt="Header Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGAfNpiX5MCpw/profile-displaybackgroundimage-shrink_200_800/B56aGWkPTDIsAQ-/0/1793527444941?e=1795046400&v=beta&t=apNPTWfRinkiRAjBkjyCWzYjUo0J_8MPZN2IhCCFsqs" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Ariful Islam</h1>
